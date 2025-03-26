@@ -1,7 +1,6 @@
 body {
     font-family: Source Code Pro;
-    background-color: #8BC6EC;
-    background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);    
+    background-color: powderblue;
     padding: 3% 3%;
     text-align: center;
 }
